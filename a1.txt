@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 this is a message that must be displayed in the master branch
-=======
 bro this is ali
 this is a repository where we can store our files for using purpose.
->>>>>>> master
 add these points
+
+
+these are the lines taken from master branch to release
+and merged
